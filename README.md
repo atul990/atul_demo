@@ -1,2 +1,2 @@
 # atul_demo
-author=atul
+author-atul
