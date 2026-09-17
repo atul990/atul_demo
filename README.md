@@ -1,3 +1,3 @@
 # atul_demo
-author-atul
 <br>
+Author-Atul Kumar
